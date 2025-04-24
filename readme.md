@@ -1,1 +1,5 @@
-## crud mongodb node driver 
+# Mongodb NodeJs Driver
+
+Comparison operator
+
+`<field> : { <operator> : <value> }`
